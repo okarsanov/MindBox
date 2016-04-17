@@ -1,0 +1,12 @@
+D:\C#\MindBox\MindBoxConsole\MindBoxConsole\bin\Debug\MindBoxConsole.exe.config
+D:\C#\MindBox\MindBoxConsole\MindBoxConsole\bin\Debug\MindBoxConsole.exe
+D:\C#\MindBox\MindBoxConsole\MindBoxConsole\bin\Debug\MindBoxConsole.pdb
+D:\C#\MindBox\MindBoxConsole\MindBoxConsole\obj\Debug\MindBoxConsole.csprojResolveAssemblyReference.cache
+D:\C#\MindBox\MindBoxConsole\MindBoxConsole\obj\Debug\MindBoxConsole.exe
+D:\C#\MindBox\MindBoxConsole\MindBoxConsole\obj\Debug\MindBoxConsole.pdb
+D:\C#\MindBox\MindBoxConsole - копия\MindBoxConsole\bin\Debug\MindBoxConsole.exe.config
+D:\C#\MindBox\MindBoxConsole - копия\MindBoxConsole\obj\Debug\MindBoxConsole.exe
+D:\C#\MindBox\MindBoxConsole - копия\MindBoxConsole\obj\Debug\MindBoxConsole.pdb
+D:\C#\MindBox\MindBoxConsole - копия\MindBoxConsole\bin\Debug\MindBoxConsole.exe
+D:\C#\MindBox\MindBoxConsole - копия\MindBoxConsole\bin\Debug\MindBoxConsole.pdb
+D:\C#\MindBox\MindBoxConsole - копия\MindBoxConsole\obj\Debug\MindBoxConsole.csprojResolveAssemblyReference.cache

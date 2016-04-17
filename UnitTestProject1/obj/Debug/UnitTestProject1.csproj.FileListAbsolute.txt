@@ -1,0 +1,14 @@
+D:\C#\MindBox\MindBoxConsole\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\C#\MindBox\MindBoxConsole\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\C#\MindBox\MindBoxConsole\UnitTestProject1\bin\Debug\MindBoxConsole.exe
+D:\C#\MindBox\MindBoxConsole\UnitTestProject1\bin\Debug\MindBoxConsole.pdb
+D:\C#\MindBox\MindBoxConsole\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\C#\MindBox\MindBoxConsole\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\C#\MindBox\MindBoxConsole\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\C#\MindBox\MindBoxConsole - копия\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\C#\MindBox\MindBoxConsole - копия\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\C#\MindBox\MindBoxConsole - копия\UnitTestProject1\bin\Debug\MindBoxConsole.exe
+D:\C#\MindBox\MindBoxConsole - копия\UnitTestProject1\bin\Debug\MindBoxConsole.pdb
+D:\C#\MindBox\MindBoxConsole - копия\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\C#\MindBox\MindBoxConsole - копия\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\C#\MindBox\MindBoxConsole - копия\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
